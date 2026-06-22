@@ -25,6 +25,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0075-sort-colors](https://github.com/Ashish094562/Leetcode-Solutions/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ashish094562/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0125-valid-palindrome](https://github.com/Ashish094562/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0844-backspace-string-compare](https://github.com/Ashish094562/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashish094562/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Linked List
 |  |
@@ -46,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0125-valid-palindrome](https://github.com/Ashish094562/Leetcode-Solutions/tree/master/0125-valid-palindrome) |
+| [0844-backspace-string-compare](https://github.com/Ashish094562/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 ## Greedy
 |  |
 | ------- |
@@ -62,4 +64,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashish094562/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+## Stack
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Ashish094562/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
+## Simulation
+|  |
+| ------- |
+| [0844-backspace-string-compare](https://github.com/Ashish094562/Leetcode-Solutions/tree/master/0844-backspace-string-compare) |
 <!---LeetCode Topics End-->
