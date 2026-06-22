@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/Ashish094562/Leetcode-Solutions/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashish094562/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
 | [0581-shortest-unsorted-continuous-subarray](https://github.com/Ashish094562/Leetcode-Solutions/tree/master/0581-shortest-unsorted-continuous-subarray) |
+| [0713-subarray-product-less-than-k](https://github.com/Ashish094562/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 | [0977-squares-of-a-sorted-array](https://github.com/Ashish094562/Leetcode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 ## Two Pointers
 |  |
@@ -60,14 +61,17 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashish094562/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Ashish094562/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Sliding Window
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashish094562/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Ashish094562/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Prefix Sum
 |  |
 | ------- |
 | [0209-minimum-size-subarray-sum](https://github.com/Ashish094562/Leetcode-Solutions/tree/master/0209-minimum-size-subarray-sum) |
+| [0713-subarray-product-less-than-k](https://github.com/Ashish094562/Leetcode-Solutions/tree/master/0713-subarray-product-less-than-k) |
 ## Stack
 |  |
 | ------- |
